@@ -1,27 +1,41 @@
-# AndroidReverseEngineering
+## AndroidReverseEngineering
 
 安卓逆向工程
     ELFRead、Frida、FridaDump、DexDump、SoDump、Ghidra、Xpose...
 
 ### AboutFiles：
     
-    1. Frida_Dump
-        安卓app加固脱壳，获取dex和so文件
+    一. Frida:
+        1. FridaDump
         
-    2. FridaDexDump
-        安卓app加固脱壳，获取dex文件
+            a. FridaDexDump
+                安卓app加固脱壳，获取dex文件
+                
+            b. FridaSoDexDump
+                安卓app加固脱壳，获取dex和so文件
+        
+        2. FridaScripts
+            firda-js 脚本
     
-    3. Ghidra
+    二. Ghidra
         强大的逆向反编译器-->>分析工具
         
-    4. Jadx
+    三. Jadx
         强大的APP逆向反编译器-->>分析工具
         
-    5. ReadElf
-        so文件结构分析
+    四.SoELF
+    
+        1. Deobf_Libcms
+            libcms.so反混淆脚本
+            
+        2. Fix_So_Dump
+            so ELF修复
         
-    6. FridaScripts
-        firda-js 脚本
+        3. ReadElf
+            so文件结构分析
+            
+        4. So_Fixer
+            so ELF修复
         
     
 ### Features:
