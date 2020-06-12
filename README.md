@@ -20,10 +20,13 @@
     二. Ghidra
         强大的逆向反编译器-->>分析工具
         
-    三. Jadx
+    三. IdaPro
+        强大的逆向反编译器-->>分析工具
+        
+    四. Jadx
         强大的APP逆向反编译器-->>分析工具
         
-    四.SoELF
+    五.SoELF
     
         1. Deobf_Libcms
             libcms.so反混淆脚本
