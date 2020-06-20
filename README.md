@@ -11,7 +11,11 @@
     
     二. Frida:
     
-        1. FridaDump
+        1. FridaAppTools
+        
+            App和frida交互通信工具
+    
+        2. FridaDump
         
             a. FridaDexDump
                 安卓app加固脱壳，获取dex文件
@@ -19,7 +23,7 @@
             b. FridaSoDexDump
                 安卓app加固脱壳，获取dex和so文件
         
-        2. FridaScripts
+        3. FridaScripts
             firda-js 脚本
             
     三. GDA
