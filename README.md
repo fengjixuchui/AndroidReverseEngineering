@@ -4,8 +4,11 @@
     ELFRead、Frida、FridaDump、DexDump、SoDump、Ghidra、Xpose...
 
 ### AboutFiles：
+
+    一. Books:
+        有关于逆向的文章和工具集合
     
-    一. Frida:
+    二. Frida:
         1. FridaDump
         
             a. FridaDexDump
@@ -17,19 +20,19 @@
         2. FridaScripts
             firda-js 脚本
             
-    二. GDA
+    三. GDA
         强大的逆向反编译器-->>分析和查壳工具
     
-    三. Ghidra
+    四. Ghidra
         强大的逆向反编译器-->>分析工具
         
-    四. IdaPro
+    五. IdaPro
         强大的逆向反编译器-->>分析工具
         
-    五. Jadx
+    六. Jadx
         强大的APP逆向反编译器-->>分析工具
         
-    六.SoELF
+    七.SoELF
     
         1. Deobf_Libcms
             libcms.so反混淆脚本
