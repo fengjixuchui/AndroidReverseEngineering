@@ -31,8 +31,11 @@
         强大的逆向反编译器-->>分析和查壳工具
     
     四. Ghidra
-    
+        
         强大的逆向反编译器-->>分析工具
+        
+        1.ghidra_scripts
+            脚本
         
     五. IdaPro
     
@@ -42,11 +45,20 @@
     
         强大的APP逆向反编译器-->>分析工具
         
-    七. Objection
+    七. JEB
+    
+        强大的APP逆向反编译器-->>分析工具
+        
+        1.JEB_SCRIPTS
+            jeb脚本
+        2.regest_tools
+            注册工具
+        
+    八. Objection
         
         App内存漫游分析工具
         
-    八. SoELF
+    九. SoELF
     
         1. Deobf_Libcms
             libcms.so反混淆脚本
